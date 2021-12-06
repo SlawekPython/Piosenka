@@ -10,15 +10,9 @@ zwrotka-3.txt
 
 refren-3.txt
 
-Niemiec, Moskal nie osiędzie,
-gdy jąwszy pałasza,
-hasłem wszystkich zgoda będzie
-i ojczyzna nasza.
+zwrotka-4.txt
 
-Marsz, marsz, Dąbrowski
-do Polski z ziemi włoski
-za Twoim przewodem
-złączem się z narodem.
+refren-4.txt
 
 Już tam ojciec do swej Basi
 mówi zapłakany:
