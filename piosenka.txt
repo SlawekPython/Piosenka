@@ -6,15 +6,9 @@ zwrotka-2.txt
 
 refren-2.txt
 
-Przejdziem Wisłę przejdziem Wartę
-będziem Polakami
-dał nam przykład Bonaparte
-jak zwyciężać mamy.
+zwrotka-3.txt
 
-Marsz, marsz, Dąbrowski
-do Polski z ziemi włoski
-za Twoim przewodem
-złączem się z narodem.
+refren-3.txt
 
 Niemiec, Moskal nie osiędzie,
 gdy jąwszy pałasza,
