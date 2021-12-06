@@ -18,8 +18,5 @@ zwrotka-5.txt
 
 refren-5.txt
 
-Na to wszystkich jedne głosy:
-„Dosyć tej niewoli
-mamy Racławickie Kosy,
-Kościuszkę, Bóg pozwoli”.
+zwrotka-6.txt
 
