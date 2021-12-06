@@ -2,15 +2,9 @@ zwrotka-1.txt
 
 refren-1.txt
 
-Jak Czarnecki do Poznania
-wracał się przez morze
-dla ojczyzny ratowania
-po szwedzkim rozbiorze.
+zwrotka-2.txt
 
-Marsz, marsz, Dąbrowski
-do Polski z ziemi włoski
-za Twoim przewodem
-złączem się z narodem.
+refren-2.txt
 
 Przejdziem Wisłę przejdziem Wartę
 będziem Polakami
