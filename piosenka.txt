@@ -1,12 +1,6 @@
-Jeszcze Polska nie umarła,
-kiedy my żyjemy.
-Co nam obca moc wydarła,
-szablą odbijemy.
+zwrotka-1.txt
 
-Marsz, marsz, Dąbrowski
-do Polski z ziemi włoski
-za Twoim przewodem
-złączem się z narodem.
+refren-1.txt
 
 Jak Czarnecki do Poznania
 wracał się przez morze
@@ -27,7 +21,6 @@ Marsz, marsz, Dąbrowski
 do Polski z ziemi włoski
 za Twoim przewodem
 złączem się z narodem.
-
 
 Niemiec, Moskal nie osiędzie,
 gdy jąwszy pałasza,
