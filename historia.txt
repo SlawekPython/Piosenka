@@ -1,0 +1,275 @@
+commit 917c0924c874a2926d283e497459c136804f0c1a
+Author: Sławomir Borczyk <slawek_python@outlook.com>
+Date:   Mon Dec 6 22:27:04 2021 +0100
+
+    zastąpienie powtarzających się refenów
+
+diff --git a/piosenka.txt b/piosenka.txt
+index 4390fea..9e948b3 100644
+--- a/piosenka.txt
++++ b/piosenka.txt
+@@ -4,19 +4,19 @@ refren-1.txt
+ 
+ zwrotka-2.txt
+ 
+-refren-2.txt
++refren-1.txt
+ 
+ zwrotka-3.txt
+ 
+-refren-3.txt
++refren-1.txt
+ 
+ zwrotka-4.txt
+ 
+-refren-4.txt
++refren-1.txt
+ 
+ zwrotka-5.txt
+ 
+-refren-5.txt
++refren-1.txt
+ 
+ zwrotka-6.txt
+ 
+
+commit 2f9d8e962d16804668a127bb4b8ab800914c2984
+Author: Sławomir Borczyk <slawek_python@outlook.com>
+Date:   Mon Dec 6 22:17:42 2021 +0100
+
+    plik po przeniesieniu całej zwartości
+
+diff --git a/piosenka.txt b/piosenka.txt
+index efb918f..4390fea 100644
+--- a/piosenka.txt
++++ b/piosenka.txt
+@@ -18,8 +18,5 @@ zwrotka-5.txt
+ 
+ refren-5.txt
+ 
+-Na to wszystkich jedne głosy:
+-„Dosyć tej niewoli
+-mamy Racławickie Kosy,
+-Kościuszkę, Bóg pozwoli”.
++zwrotka-6.txt
+ 
+
+commit 78ec900a754932bb515b3bd6961f050778478606
+Author: Sławomir Borczyk <slawek_python@outlook.com>
+Date:   Mon Dec 6 22:15:23 2021 +0100
+
+    plik piosenka po przeniesieniu pięciu zwrotek i refrenów
+
+diff --git a/piosenka.txt b/piosenka.txt
+index 5fab90b..efb918f 100644
+--- a/piosenka.txt
++++ b/piosenka.txt
+@@ -14,15 +14,9 @@ zwrotka-4.txt
+ 
+ refren-4.txt
+ 
+-Już tam ojciec do swej Basi
+-mówi zapłakany:
+-„słuchaj jeno, pono nasi
+-biją w tarabany”.
+-
+-Marsz, marsz, Dąbrowski
+-do Polski z ziemi włoski
+-za Twoim przewodem
+-złączem się z narodem.
++zwrotka-5.txt
++
++refren-5.txt
+ 
+ Na to wszystkich jedne głosy:
+ „Dosyć tej niewoli
+
+commit ed73fbec798d56a179362d9b03f619a4bf28c8a6
+Author: Sławomir Borczyk <slawek_python@outlook.com>
+Date:   Mon Dec 6 22:12:16 2021 +0100
+
+    plik piosenka po przeniesieniu czterech zwrotek i refrenów
+
+diff --git a/piosenka.txt b/piosenka.txt
+index 0c17bc8..5fab90b 100644
+--- a/piosenka.txt
++++ b/piosenka.txt
+@@ -10,15 +10,9 @@ zwrotka-3.txt
+ 
+ refren-3.txt
+ 
+-Niemiec, Moskal nie osiędzie,
+-gdy jąwszy pałasza,
+-hasłem wszystkich zgoda będzie
+-i ojczyzna nasza.
++zwrotka-4.txt
+ 
+-Marsz, marsz, Dąbrowski
+-do Polski z ziemi włoski
+-za Twoim przewodem
+-złączem się z narodem.
++refren-4.txt
+ 
+ Już tam ojciec do swej Basi
+ mówi zapłakany:
+
+commit a74ccf9edb1ecd653206decd4a17165d73880e19
+Author: Sławomir Borczyk <slawek_python@outlook.com>
+Date:   Mon Dec 6 22:09:09 2021 +0100
+
+    plik piosenka po przeniesieniu trzech zwrotek i refrenów
+
+diff --git a/piosenka.txt b/piosenka.txt
+index c704e85..0c17bc8 100644
+--- a/piosenka.txt
++++ b/piosenka.txt
+@@ -6,15 +6,9 @@ zwrotka-2.txt
+ 
+ refren-2.txt
+ 
+-Przejdziem Wisłę przejdziem Wartę
+-będziem Polakami
+-dał nam przykład Bonaparte
+-jak zwyciężać mamy.
++zwrotka-3.txt
+ 
+-Marsz, marsz, Dąbrowski
+-do Polski z ziemi włoski
+-za Twoim przewodem
+-złączem się z narodem.
++refren-3.txt
+ 
+ Niemiec, Moskal nie osiędzie,
+ gdy jąwszy pałasza,
+
+commit e3456d2531dc9ab6a23b58fb7e37e433e6666ccf
+Author: Sławomir Borczyk <slawek_python@outlook.com>
+Date:   Mon Dec 6 22:06:06 2021 +0100
+
+    plik piosenka po przeniesieniu drugiej zwrotki i refernu
+
+diff --git a/piosenka.txt b/piosenka.txt
+index d8ac9a7..c704e85 100644
+--- a/piosenka.txt
++++ b/piosenka.txt
+@@ -2,15 +2,9 @@ zwrotka-1.txt
+ 
+ refren-1.txt
+ 
+-Jak Czarnecki do Poznania
+-wracał się przez morze
+-dla ojczyzny ratowania
+-po szwedzkim rozbiorze.
++zwrotka-2.txt
+ 
+-Marsz, marsz, Dąbrowski
+-do Polski z ziemi włoski
+-za Twoim przewodem
+-złączem się z narodem.
++refren-2.txt
+ 
+ Przejdziem Wisłę przejdziem Wartę
+ będziem Polakami
+
+commit f2c4bbc6b2d87f3e18511df6989d1677e607f6bc
+Author: Sławomir Borczyk <slawek_python@outlook.com>
+Date:   Mon Dec 6 22:01:39 2021 +0100
+
+    wykasowanie pierwszej zwrotki i refrenu z piosenki
+
+diff --git a/piosenka.txt b/piosenka.txt
+index aad4779..d8ac9a7 100644
+--- a/piosenka.txt
++++ b/piosenka.txt
+@@ -1,12 +1,6 @@
+-Jeszcze Polska nie umarła,
+-kiedy my żyjemy.
+-Co nam obca moc wydarła,
+-szablą odbijemy.
++zwrotka-1.txt
+ 
+-Marsz, marsz, Dąbrowski
+-do Polski z ziemi włoski
+-za Twoim przewodem
+-złączem się z narodem.
++refren-1.txt
+ 
+ Jak Czarnecki do Poznania
+ wracał się przez morze
+@@ -28,7 +22,6 @@ do Polski z ziemi włoski
+ za Twoim przewodem
+ złączem się z narodem.
+ 
+-
+ Niemiec, Moskal nie osiędzie,
+ gdy jąwszy pałasza,
+ hasłem wszystkich zgoda będzie
+
+commit f4fac7089a68a0a963aa77f22cab66b16cff3237
+Author: Sławomir Borczyk <slawek_python@outlook.com>
+Date:   Mon Dec 6 21:53:34 2021 +0100
+
+    wrzucenie do repozytorium pełnej piosenki
+
+diff --git a/piosenka.txt b/piosenka.txt
+new file mode 100644
+index 0000000..aad4779
+--- /dev/null
++++ b/piosenka.txt
+@@ -0,0 +1,56 @@
++Jeszcze Polska nie umarła,
++kiedy my żyjemy.
++Co nam obca moc wydarła,
++szablą odbijemy.
++
++Marsz, marsz, Dąbrowski
++do Polski z ziemi włoski
++za Twoim przewodem
++złączem się z narodem.
++
++Jak Czarnecki do Poznania
++wracał się przez morze
++dla ojczyzny ratowania
++po szwedzkim rozbiorze.
++
++Marsz, marsz, Dąbrowski
++do Polski z ziemi włoski
++za Twoim przewodem
++złączem się z narodem.
++
++Przejdziem Wisłę przejdziem Wartę
++będziem Polakami
++dał nam przykład Bonaparte
++jak zwyciężać mamy.
++
++Marsz, marsz, Dąbrowski
++do Polski z ziemi włoski
++za Twoim przewodem
++złączem się z narodem.
++
++
++Niemiec, Moskal nie osiędzie,
++gdy jąwszy pałasza,
++hasłem wszystkich zgoda będzie
++i ojczyzna nasza.
++
++Marsz, marsz, Dąbrowski
++do Polski z ziemi włoski
++za Twoim przewodem
++złączem się z narodem.
++
++Już tam ojciec do swej Basi
++mówi zapłakany:
++„słuchaj jeno, pono nasi
++biją w tarabany”.
++
++Marsz, marsz, Dąbrowski
++do Polski z ziemi włoski
++za Twoim przewodem
++złączem się z narodem.
++
++Na to wszystkich jedne głosy:
++„Dosyć tej niewoli
++mamy Racławickie Kosy,
++Kościuszkę, Bóg pozwoli”.
++
